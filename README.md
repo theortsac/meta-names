@@ -1,5 +1,5 @@
 # MetaNames 📛
-MetaNames is a system for user naming similar to [Discord](https://discord.com/). It uses Solidity as the language and works on ethereum based blockchains. The four main differences from the [Ethereum Name Service] are:
+MetaNames is a system for user naming similar to [Discord](https://discord.com/). It uses Solidity as the language and works on ethereum based blockchains. The four main differences from the [Ethereum Name Service](https://ens.domains/) are:
 - MetaNames never expire.
 - MetaNames aren't NFTs (you can't transfer them).
 - MetaNames (and every action you do with them) are totally free except gas.
