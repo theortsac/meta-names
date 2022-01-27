@@ -184,7 +184,7 @@ contract MetaNames {
     }
 
     // Declaring the function that returns the MetaName of a user.
-    function addressMetaName(address _metaNameOwner)
+    function metaNameAddress(address _metaNameOwner)
         public
         view
         returns (MetaName memory)
@@ -194,7 +194,7 @@ contract MetaNames {
     }
 
     // Declaring the function that returns the user of a MetaName.
-    function metaNameAddress(string memory _name, uint256 _tag)
+    function addressMetaName(string memory _name, uint256 _tag)
         public
         view
         returns (address)
